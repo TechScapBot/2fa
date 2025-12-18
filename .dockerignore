@@ -1,0 +1,8 @@
+*.exe
+*.test
+*.out
+.git
+.gitignore
+README.md
+CLAUDE.md
+*_test.go

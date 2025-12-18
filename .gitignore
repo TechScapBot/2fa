@@ -1,0 +1,8 @@
+*.exe
+*.test
+*.out
+.env
+CLAUDE.md
+.claude/
+deploy.md
+.ssh/
